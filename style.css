@@ -2,5 +2,6 @@ body {
   background: linear-gradient(0deg,#010057, #7fb5eb, #82c8b7); ;
   text-align: center;
   align-content: center;
+  text-align: center;
   width: 450px;
 }
