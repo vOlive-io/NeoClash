@@ -1,10 +1,11 @@
-body {
+#welcome {
   background: linear-gradient(0deg,#ffbdfb, #dbedff, #e8ffee); ;
   text-align: center;
   align-content: center;
   text-align: center;
   margin-right: 30%;
   margin-left: 30%;
+  
 }
 #head-text {
   color: #003026;
