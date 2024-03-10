@@ -6,6 +6,9 @@ body {
   margin-right: 300px;
   margin-left: 300px;
 }
+#head-text {
+    color: #003026;
+}
 
 #main-menu-text {
   color: #003026;
