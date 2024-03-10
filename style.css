@@ -1,8 +1,12 @@
+body {
+  text-align: center;
+  align-content: center;
+}
+
 #welcome {
   background: linear-gradient(0deg,#ffbdfb, #dbedff, #e8ffee); ;
   text-align: center;
   align-content: center;
-  text-align: center;
   border: black groove 10px;
   height: 450px;
   width: 575px;
