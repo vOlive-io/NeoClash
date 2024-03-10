@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  align-content: center;
+  background: linear-gradient(0deg,#ffbdfb, #dbedff, #e8ffee); ;
+}
+
+#mini-stat {
+  margin: auto;
+}
+
+#head-text {
+  color: #62548b;
+}
