@@ -3,9 +3,10 @@
   text-align: center;
   align-content: center;
   text-align: center;
-  margin-right: 30%;
-  margin-left: 30%;
+  margin-right: 25%;
+  margin-left: 25%;
   border: black groove 10px;
+  height: 450px;
 }
 #head-text {
   color: #62548b;
