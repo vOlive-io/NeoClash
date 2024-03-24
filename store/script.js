@@ -9,6 +9,3 @@ const code = (str, callback) => {
     });
 }
 
-code("dev", () => {
-    console.log("dev");
-})
